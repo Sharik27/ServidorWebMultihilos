@@ -7,5 +7,5 @@ Intrucciones Para ejecutar el proyecto
 4. Compilar el código
 5. Ejecutar la aplicación
 6. Abrir el navegador Google Chrome.
-7. En la barra de direcciones, ingresar: http://hostname6789/Prueba.html
+7. En la barra de direcciones, ingresar: http://localhost:6789/Prueba.html
 8. Si la aplicación se ejecutó correctamente, deberías ver en pantalla el mensaje: successfully achieved
